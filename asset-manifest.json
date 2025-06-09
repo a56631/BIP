@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BIP/static/css/main.d9cbe9ab.css",
-    "main.js": "/BIP/static/js/main.236f24f5.js",
+    "main.js": "/BIP/static/js/main.e2330beb.js",
     "static/js/453.4fdc8726.chunk.js": "/BIP/static/js/453.4fdc8726.chunk.js",
     "static/media/BIP- Go back to our roots- Zacliczyn 2025.pdf": "/BIP/static/media/BIP- Go back to our roots- Zacliczyn 2025.b3fef11649cb8727fdf2.pdf",
     "static/media/Orçamento da Instalação de Internet em Zakliczyn.docx": "/BIP/static/media/Orçamento da Instalação de Internet em Zakliczyn.29069c09916ab468dd64.docx",
@@ -20,11 +20,11 @@
     "static/media/logo2.png": "/BIP/static/media/logo2.4f328052e99217f77d8b.png",
     "index.html": "/BIP/index.html",
     "main.d9cbe9ab.css.map": "/BIP/static/css/main.d9cbe9ab.css.map",
-    "main.236f24f5.js.map": "/BIP/static/js/main.236f24f5.js.map",
+    "main.e2330beb.js.map": "/BIP/static/js/main.e2330beb.js.map",
     "453.4fdc8726.chunk.js.map": "/BIP/static/js/453.4fdc8726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9cbe9ab.css",
-    "static/js/main.236f24f5.js"
+    "static/js/main.e2330beb.js"
   ]
 }
