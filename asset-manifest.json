@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/BIP/static/css/main.d9cbe9ab.css",
+    "main.js": "/BIP/static/js/main.c4c82fdb.js",
+    "static/js/453.4fdc8726.chunk.js": "/BIP/static/js/453.4fdc8726.chunk.js",
+    "static/media/BIP- Go back to our roots- Zacliczyn 2025.pdf": "/BIP/static/media/BIP- Go back to our roots- Zacliczyn 2025.b3fef11649cb8727fdf2.pdf",
+    "static/media/Orçamento da Instalação de Internet em Zakliczyn.docx": "/BIP/static/media/Orçamento da Instalação de Internet em Zakliczyn.29069c09916ab468dd64.docx",
+    "static/media/logoins.png": "/BIP/static/media/logoins.db2612bd586501d9ed3e.png",
+    "static/media/imgs2.png": "/BIP/static/media/imgs2.89862185de3681449bf9.png",
+    "static/media/imgs5.png": "/BIP/static/media/imgs5.1d9c907da825b91b6cd1.png",
+    "static/media/img1.png": "/BIP/static/media/img1.fc6eec277a435f0b6eca.png",
+    "static/media/imgcity.png": "/BIP/static/media/imgcity.5618bc1a7d0a4ffac11e.png",
+    "static/media/imgs1.png": "/BIP/static/media/imgs1.b7afc7a18e337aafe2f9.png",
+    "static/media/img3.png": "/BIP/static/media/img3.4230a844ecf3c94d3f20.png",
+    "static/media/imgs3.png": "/BIP/static/media/imgs3.5912a47b5533c158e90d.png",
+    "static/media/img4.png": "/BIP/static/media/img4.61971168d4fbb64355ef.png",
+    "static/media/logozan.png": "/BIP/static/media/logozan.5527f644ea3d7391fe78.png",
+    "static/media/imgs4.png": "/BIP/static/media/imgs4.f1c5a7b05dd882930211.png",
+    "static/media/mayorimg.png": "/BIP/static/media/mayorimg.e2fb392626224d5461bc.png",
+    "static/media/img2.png": "/BIP/static/media/img2.af2d98d5e46637402a28.png",
+    "static/media/logo2.png": "/BIP/static/media/logo2.4f328052e99217f77d8b.png",
+    "index.html": "/BIP/index.html",
+    "main.d9cbe9ab.css.map": "/BIP/static/css/main.d9cbe9ab.css.map",
+    "main.c4c82fdb.js.map": "/BIP/static/js/main.c4c82fdb.js.map",
+    "453.4fdc8726.chunk.js.map": "/BIP/static/js/453.4fdc8726.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cbe9ab.css",
+    "static/js/main.c4c82fdb.js"
+  ]
+}
