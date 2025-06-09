@@ -16,7 +16,7 @@ function Map({ language }) {
 
     mapInstance.current = new maplibregl.Map({
       container: mapContainer.current,
-      style: 'https://tiles.stadiamaps.com/styles/alidade_smooth.json',
+      style: 'https://tiles.stadiamaps.com/styles/alidade_smooth.json?api_key=a0a8e0ec-abba-4504-ad69-8947a0f0e83d',
       center: [20.8139, 49.8561], // [lng, lat] Zackliczyn, Poland (updated coordinates)
       zoom: 15
     });
