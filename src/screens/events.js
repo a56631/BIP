@@ -3,7 +3,7 @@ import React from 'react';
 import translations from '../translations';
 import logo from '../assets/logozan.png';
 import marketingPlanPdf from '../assets/BIP- Go back to our roots- Zacliczyn 2025.pdf';
-import networkProjectDocx from '../assets/Orçamento da Instalação de Internet em Zakliczyn.docx';
+import networkProjectDocx from '../assets/Orçamento da Instalação de Internet em Zakliczyn.pdf';
 
 
 function Events({ language }) {
@@ -21,7 +21,7 @@ function Events({ language }) {
     const downloadNetworkProject = () => {
       const link = document.createElement('a');
       link.href = networkProjectDocx;
-      link.download = 'Orçamento da Instalação de Internet em Zakliczyn.docx';
+      link.download = 'Orçamento da Instalação de Internet em Zakliczyn.pdf';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);

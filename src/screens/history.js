@@ -17,8 +17,8 @@ function History({ language }) {
 
   const downloadNetworkProject = () => {
     const link = document.createElement('a');
-    link.href = require('../assets/Orçamento da Instalação de Internet em Zakliczyn.docx');
-    link.download = 'Orçamento da Instalação de Internet em Zakliczyn.docx';
+    link.href = require('../assets/Orçamento da Instalação de Internet em Zakliczyn.pdf');
+    link.download = 'Orçamento da Instalação de Internet em Zakliczyn.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
