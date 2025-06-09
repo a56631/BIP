@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename='BIP'>
       <div className="App">
         <div className='logocube'>
           <img src={logo} alt="logo" className='logoimg'/> 
@@ -48,7 +48,7 @@ function App() {
           <Link to="/map" className="TopBarBox">{translations.topBar[language].map}</Link>
         </div>
         <Routes>
-          <Route path="/BIP" element={<Navigate to="/home" />} />
+          <Route path="/" element={<Navigate to="/home" />} />
           <Route path="/home" element={<Home language={language} />} />
           <Route path="/landmarks" element={<Landmarks language={language} />} />
           <Route path="/gastronomy" element={<Gastronomy language={language} />} />
