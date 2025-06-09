@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <Router basename='BIP'>
+    <Router basename='/BIP'>
       <div className="App">
         <div className='logocube'>
           <img src={logo} alt="logo" className='logoimg'/> 
