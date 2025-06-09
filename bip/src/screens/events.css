@@ -1,0 +1,183 @@
+.events{
+    text-align: left;
+}
+.BottomBar {
+  margin-top: 30px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 15px;
+  gap: 10px;
+}
+
+.BottomBarImage {
+  margin-left: 10px;
+  height: 100%;
+  margin-right: -10px;
+}
+
+.BottomBarCube {
+  background-color: white;
+  width: 180px;
+  height: 40px;
+  padding: 5px 160px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 14px;
+  user-select: none;
+  cursor: default;
+  border: none;
+  box-shadow: none;
+  margin: 2px;
+  text-align: left;
+}
+.mainevents{
+    font-size: 25px;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.cube{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube1{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle1{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext1{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube2{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle2{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext2{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube3{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle3{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext3{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube4{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle4{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext4{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube5{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle5{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext5{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cube6{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: #AFA386;
+    height: 200px;
+    width: 1200px;
+    padding-top: 1px; /* Added to prevent margin collapsing */
+}
+.cubetitle6{
+    font-size: 30px;
+    font-family: 'Urbanist', sans-serif;
+    /* Changed margin-top to padding-top to avoid moving entire cube */
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.cubetext6{
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: 10px;
+}

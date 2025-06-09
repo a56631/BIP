@@ -1,0 +1,132 @@
+.gastronomy{
+    text-align: left;
+}
+.BottomBar {
+  margin-top: 30px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 15px;
+  gap: 10px;
+}
+
+.BottomBarImage {
+  margin-left: 10px;
+  height: 100%;
+  margin-right: -10px;
+}
+
+.BottomBarCube {
+  background-color: white;
+  width: 180px;
+  height: 40px;
+  padding: 5px 160px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 14px;
+  user-select: none;
+  cursor: default;
+  border: none;
+  box-shadow: none;
+  margin: 2px;
+  text-align: left;
+}
+.imgsquares{
+    width: 400px;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.imgimgs{
+    width: 100%;
+    height: 100%;
+}
+.textsquares{
+    margin-top: 0;
+    margin-left: 40px;
+    width: 400px;
+    height: 300px;
+    background-color: #AFA386;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}
+.imgsquare1s{
+    width: 400px;
+    height: 400px;
+    margin-top: -700px;
+    margin-left: 500px;
+}
+.imgimg1s{
+    width: 100%;
+    height: 100%;
+}
+.textsquare1s{
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 400px;
+    height: 300px;
+    background-color: #AFA386;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}
+.imgsquare2s{
+    width: 400px;
+    height: 400px;
+    margin-top: -700px;
+    margin-left: 950px;
+}
+.imgimg2s{
+    width: 100%;
+    height: 100%;
+}
+.textsquare2s{
+    margin-top: 0;
+    margin-left: 950px;
+    width: 400px;
+    height: 300px;
+    background-color: #AFA386;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}
+.imgsquare3s{
+    width: 400px;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 260px;
+}
+.imgimg3s{
+    width: 100%;
+    height: 100%;
+}
+.textsquare3s{
+    margin-top: 0;
+    margin-left: 260px;
+    width: 400px;
+    height: 300px;
+    background-color: #AFA386;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}
+.imgsquare4s{
+    width: 400px;
+    height: 400px;
+    margin-top: -700px;
+    margin-left: 730px;
+}
+.imgimg4s{
+    width: 100%;
+    height: 100%;
+}
+.textsquare4s{
+    margin-top: 0;
+    margin-left: 730px;
+    width: 400px;
+    height: 300px;
+    background-color: #AFA386;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}

@@ -1,0 +1,71 @@
+.map{
+    text-align: left;
+}
+.BottomBar {
+  margin-top: 30px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 15px;
+  gap: 10px;
+}
+
+.BottomBarImage {
+  margin-left: 10px;
+  height: 100%;
+  margin-right: -10px;
+}
+
+.BottomBarCube {
+  background-color: white;
+  width: 180px;
+  height: 40px;
+  padding: 5px 160px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 14px;
+  user-select: none;
+  cursor: default;
+  border: none;
+  box-shadow: none;
+  margin: 2px;
+  text-align: left;
+}
+.BottomBarButtons {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.highlightButton {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+  padding: 8px 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: none;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.highlightButton:hover {
+  background-color: #e6f0ff;
+  box-shadow: none;
+}
+.mapsquare{
+    width: 650px;
+    height: 700px;
+    margin-left: 400px;
+    margin-top: 15px;
+}
+.mapimg{
+    width: 100%;
+    height: 100%;
+}
