@@ -51,7 +51,7 @@ function App() {
           <Link to="/map" className="TopBarBox">{translations.topBar[language].map}</Link>
         </div>
         <Routes>
-          <Route path="/" element={<Home language={language} />} />
+          <Route path="/" element={<Navigate to="/home" />} />
           <Route path="/home" element={<Home language={language} />} />
           <Route path="/landmarks" element={<Landmarks language={language} />} />
           <Route path="/gastronomy" element={<Gastronomy language={language} />} />
